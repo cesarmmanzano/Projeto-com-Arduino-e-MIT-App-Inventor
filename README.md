@@ -66,5 +66,3 @@
 * No repositório é possível encontrar o arquivo .aia do MIT, instale em um dispositivo, e conecta com o módulo bluetooth, aparecendo a tela inicial do aplicativo e uma mensagem se tudo ocorrer como o esperado.
 * E por fim, só utilizar o aplicativo e trocar de telas para verificar uma das 4 funcionalidades.
 
-## Contribuições
-* Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas.
