@@ -2,6 +2,7 @@
 
 ## Arduino e MIT App Inventor
 * O projeto principal está localizado na pasta **"Projeto_de_Circuitos_El_tricos"**, projeto que engloba diversas funcionalidades, podendo estar :
+<br>
  -**Verificando a temperatura do ambiente, e acionando um buzzer (barulho)**, se passar de uma temperatura determinada;
 <br>
  -**Ligando lâmpada conforme a taxa de claridade do ambiente, com um sensor**;
