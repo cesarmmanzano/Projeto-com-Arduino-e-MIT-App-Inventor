@@ -7,7 +7,6 @@ O projeto principal está localizado na pasta **"Projeto_de_Circuitos_El_tricos"
  - **Ligando lâmpada conforme a taxa de claridade do ambiente, com um sensor**;
  - **Acionando diversos Leds apertando determinado botão do controle remoto** ;
  - **Também possui uma tela no aplicativo com botões de 1 a 9 e de A a F, que conforme selecionado aparece a opção selecionada no display de 7   segmentos**. 
-<br>
 Foram realizados outros diversos projetos com a finalidade de testar o funcionamento do código, de cada componente e como se comportaria e seria feita a comunicação por bluetooth com o MIT App Inventor separado, para só depois estar integrando todos eles em um só e criando um aplicativo único para todos eles e concluindo o projeto. 
 
 ## Componentes Eletrônicos Utilizados
