@@ -63,7 +63,8 @@ O projeto principal está localizado na pasta **"Projeto_de_Circuitos_El_tricos"
 * <a> [Vídeo aula - Integração de Arduino, Bluetooth, Android com AppInventor](https://www.youtube.com/watch?v=blvkJBAcGY0)
 
 ## Desenvolvimento
-* Git clone https://github.com/murilodepa/Projeto-com-Arduino-e-MIT-App-Inventor
+* https://github.com/murilodepa/Projeto-com-Arduino-e-MIT-App-Inventor
+* https://github.com/cesarmmanzano/Projeto-com-Arduino-e-MIT-App-Inventor
 * Primeiramente é necessário realizar a montagem do circuito eletrônico com as específicas portas de saída do Arduino em cada determinado componente eletrônico utilizado, deixando o módulo bluetooth acionado para a comunicação.
 * Após instalar o software Arduino, execute-o, selecione a opção arquivo, e depois abrir projeto.
 * Compile e execute ele para a placa Arduino que estiver utilizando na montagem do projeto.
