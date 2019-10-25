@@ -5,7 +5,7 @@ O projeto principal está localizado na pasta **"Projeto_de_Circuitos_El_tricos"
 <br>
  - **Verificando a temperatura do ambiente, e acionando um buzzer (barulho)**, se passar de uma temperatura determinada;
 <br>
- - **Ligando lâmpada conforme a taxa de claridade do ambiente, com um sensor**;
+ * **Ligando lâmpada conforme a taxa de claridade do ambiente, com um sensor**;
 <br>
  - **Acionando diversos Leds apertando determinado botão do controle remoto** ;
 <br>
